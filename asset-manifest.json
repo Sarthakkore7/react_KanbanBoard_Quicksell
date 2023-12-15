@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/react_KanbanBoard_Quicksell/static/css/main.57e7561b.css",
+    "main.js": "/react_KanbanBoard_Quicksell/static/js/main.b9f804d9.js",
+    "static/js/787.1937f22b.chunk.js": "/react_KanbanBoard_Quicksell/static/js/787.1937f22b.chunk.js",
+    "index.html": "/react_KanbanBoard_Quicksell/index.html",
+    "static/media/Tuning.svg": "/react_KanbanBoard_Quicksell/static/media/Tuning.60e58550d592097aa6f7865269c844d4.svg",
+    "static/media/Down.svg": "/react_KanbanBoard_Quicksell/static/media/Down.1d0cf6ea731625d136ef60f7a594b7ce.svg",
+    "main.57e7561b.css.map": "/react_KanbanBoard_Quicksell/static/css/main.57e7561b.css.map",
+    "main.b9f804d9.js.map": "/react_KanbanBoard_Quicksell/static/js/main.b9f804d9.js.map",
+    "787.1937f22b.chunk.js.map": "/react_KanbanBoard_Quicksell/static/js/787.1937f22b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.57e7561b.css",
+    "static/js/main.b9f804d9.js"
+  ]
+}
